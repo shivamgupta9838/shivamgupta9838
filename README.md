@@ -25,7 +25,7 @@
 
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/[your-link](https://www.linkedin.com/in/shivam-gupta-b09b72239))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivam-gupta-b09b72239)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:kumarshivamgupta77@gmail.com)
 
 ---
