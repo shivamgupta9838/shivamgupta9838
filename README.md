@@ -4,10 +4,10 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Pursuing MCA (1st Year)  
+- 🎓 Pursuing MCA (2nd Year)  
 - 💻 Currently learning **Flutter** and **Machine Learning**  
-- 🧩 Working on projects like **AI Tutor Agent** & **Emotion Detection from Faces**  
-- ❤️ Deeply passionate about **AI, Java, and Intelligent Systems**  
+- 🧩 Working on projects like **AI Tutor Agent** & **AI-driven chronic pain management system**  
+- ❤️ Deeply passionate about **Coding, Java, DSA & AI**  
 - ☕ Love solving logical problems & building projects that make life easier  
 
 ---
