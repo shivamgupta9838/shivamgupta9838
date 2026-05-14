@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shivam 👋</h1>
-<h3 align="center">MCA Student | Java Developer | AI & Flutter Enthusiast 🚀</h3>
+<h3 align="center">MCA Student | Java & Laravel Developer | AI & Flutter Enthusiast 🚀</h3>
 
 ---
 
